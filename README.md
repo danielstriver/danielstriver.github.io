@@ -1,2 +1,2 @@
-# DanielEthicalHacker.github.io
+# danielstriver.github.io
 My Personal Official Website
